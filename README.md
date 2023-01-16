@@ -1,2 +1,1 @@
-# Proyecto-32
-Tiro con arco
+# Plantilla del proyecto 26
